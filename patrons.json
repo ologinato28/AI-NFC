@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ABC123",
+    "name": "Nong Ezra",
+    "age": 12,
+    "preferences": ["adventure", "fantasy"]
+  },
+  {
+    "id": "XYZ456",
+    "name": "Orvie Mahilig sa Romance",
+    "age": 20,
+    "preferences": ["horror", "romance"]
+  },
+  {
+    "id": "LMN789",
+    "name": "Nich Niggalas",
+    "age": 16,
+    "preferences": ["sci-fi", "mystery"]
+  }
+]

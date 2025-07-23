@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "genre": "fantasy",
+    "ageRestriction": 10
+  },
+  {
+    "title": "The Hobbit",
+    "genre": "adventure",
+    "ageRestriction": 10
+  },
+  {
+    "title": "It",
+    "genre": "horror",
+    "ageRestriction": 18
+  },
+  {
+    "title": "Pride and Prejudice",
+    "genre": "romance",
+    "ageRestriction": 12
+  },
+  {
+    "title": "Ender's Game",
+    "genre": "sci-fi",
+    "ageRestriction": 14
+  },
+  {
+    "title": "Sherlock Holmes: The Complete Novels",
+    "genre": "mystery",
+    "ageRestriction": 14
+  }
+]

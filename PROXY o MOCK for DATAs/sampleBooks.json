@@ -1,0 +1,6 @@
+[
+  { "title": "Harry Potter", "genre": "fantasy", "ageRating": 10 },
+  { "title": "The Da Vinci Code", "genre": "mystery", "ageRating": 16 },
+  { "title": "Green Eggs and Ham", "genre": "children", "ageRating": 3 },
+  { "title": "It Ends With Us", "genre": "romance", "ageRating": 18 }
+]
